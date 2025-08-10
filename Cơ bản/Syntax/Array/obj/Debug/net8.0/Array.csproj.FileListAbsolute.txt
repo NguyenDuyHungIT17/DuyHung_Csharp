@@ -1,0 +1,14 @@
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\FINT\Cơ bản\Syntax\Array\bin\Debug\net8.0\Array.exe
+D:\FINT\Cơ bản\Syntax\Array\bin\Debug\net8.0\Array.deps.json
+D:\FINT\Cơ bản\Syntax\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\FINT\Cơ bản\Syntax\Array\bin\Debug\net8.0\Array.dll
+D:\FINT\Cơ bản\Syntax\Array\bin\Debug\net8.0\Array.pdb
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.dll
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\refint\Array.dll
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.pdb
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\FINT\Cơ bản\Syntax\Array\obj\Debug\net8.0\ref\Array.dll

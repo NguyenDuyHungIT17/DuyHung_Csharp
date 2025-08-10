@@ -1,0 +1,14 @@
+D:\FINT\Cơ bản\Syntax\Syntax\bin\Debug\net8.0\Syntax.exe
+D:\FINT\Cơ bản\Syntax\Syntax\bin\Debug\net8.0\Syntax.deps.json
+D:\FINT\Cơ bản\Syntax\Syntax\bin\Debug\net8.0\Syntax.runtimeconfig.json
+D:\FINT\Cơ bản\Syntax\Syntax\bin\Debug\net8.0\Syntax.dll
+D:\FINT\Cơ bản\Syntax\Syntax\bin\Debug\net8.0\Syntax.pdb
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.AssemblyInfoInputs.cache
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.AssemblyInfo.cs
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.csproj.CoreCompileInputs.cache
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.dll
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\refint\Syntax.dll
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.pdb
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\Syntax.genruntimeconfig.cache
+D:\FINT\Cơ bản\Syntax\Syntax\obj\Debug\net8.0\ref\Syntax.dll
