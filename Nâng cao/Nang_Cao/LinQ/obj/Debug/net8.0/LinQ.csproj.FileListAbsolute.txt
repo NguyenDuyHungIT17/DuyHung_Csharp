@@ -1,0 +1,15 @@
+D:\FINT\Nâng cao\Nang_Cao\LinQ\bin\Debug\net8.0\LinQ.exe
+D:\FINT\Nâng cao\Nang_Cao\LinQ\bin\Debug\net8.0\LinQ.deps.json
+D:\FINT\Nâng cao\Nang_Cao\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+D:\FINT\Nâng cao\Nang_Cao\LinQ\bin\Debug\net8.0\LinQ.dll
+D:\FINT\Nâng cao\Nang_Cao\LinQ\bin\Debug\net8.0\LinQ.pdb
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.sourcelink.json
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.dll
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.pdb
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+D:\FINT\Nâng cao\Nang_Cao\LinQ\obj\Debug\net8.0\ref\LinQ.dll

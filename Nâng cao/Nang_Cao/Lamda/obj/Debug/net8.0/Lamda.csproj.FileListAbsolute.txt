@@ -1,0 +1,15 @@
+D:\FINT\Nâng cao\Nang_Cao\Lamda\bin\Debug\net8.0\Lamda.exe
+D:\FINT\Nâng cao\Nang_Cao\Lamda\bin\Debug\net8.0\Lamda.deps.json
+D:\FINT\Nâng cao\Nang_Cao\Lamda\bin\Debug\net8.0\Lamda.runtimeconfig.json
+D:\FINT\Nâng cao\Nang_Cao\Lamda\bin\Debug\net8.0\Lamda.dll
+D:\FINT\Nâng cao\Nang_Cao\Lamda\bin\Debug\net8.0\Lamda.pdb
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfoInputs.cache
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfo.cs
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.csproj.CoreCompileInputs.cache
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.sourcelink.json
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.dll
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\refint\Lamda.dll
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.pdb
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\Lamda.genruntimeconfig.cache
+D:\FINT\Nâng cao\Nang_Cao\Lamda\obj\Debug\net8.0\ref\Lamda.dll

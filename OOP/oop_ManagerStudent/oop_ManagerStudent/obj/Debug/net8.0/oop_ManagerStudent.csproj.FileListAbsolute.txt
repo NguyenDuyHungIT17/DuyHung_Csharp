@@ -1,0 +1,15 @@
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\bin\Debug\net8.0\oop_ManagerStudent.exe
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\bin\Debug\net8.0\oop_ManagerStudent.deps.json
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\bin\Debug\net8.0\oop_ManagerStudent.runtimeconfig.json
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\bin\Debug\net8.0\oop_ManagerStudent.dll
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\bin\Debug\net8.0\oop_ManagerStudent.pdb
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.AssemblyInfoInputs.cache
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.AssemblyInfo.cs
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.csproj.CoreCompileInputs.cache
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.sourcelink.json
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.dll
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\refint\oop_ManagerStudent.dll
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.pdb
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\oop_ManagerStudent.genruntimeconfig.cache
+D:\FINT\Cơ bản\oop_ManagerStudent\oop_ManagerStudent\obj\Debug\net8.0\ref\oop_ManagerStudent.dll

@@ -1,0 +1,15 @@
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\bin\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.exe
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\bin\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.deps.json
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\bin\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.runtimeconfig.json
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\bin\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.dll
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\bin\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.pdb
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.AssemblyInfoInputs.cache
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.AssemblyInfo.cs
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.csproj.CoreCompileInputs.cache
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.sourcelink.json
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.dll
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\refint\Xu_Ly_Chuoi_Ngoaii_Le.dll
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.pdb
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\Xu_Ly_Chuoi_Ngoaii_Le.genruntimeconfig.cache
+D:\FINT\Chuoi_NgoaiLe\Xu_Ly_Chuoi_Ngoaii_Le\Xu_Ly_Chuoi_Ngoaii_Le\obj\Debug\net8.0\ref\Xu_Ly_Chuoi_Ngoaii_Le.dll

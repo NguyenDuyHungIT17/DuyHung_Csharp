@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Syntax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce88c21a2eb5e31efabd071f487fc1edd466966")]
 [assembly: System.Reflection.AssemblyProductAttribute("Syntax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Syntax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
