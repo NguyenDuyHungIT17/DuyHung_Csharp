@@ -1,0 +1,6 @@
+@QLSinhVien_HostAddress = http://localhost:5122
+
+GET {{QLSinhVien_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

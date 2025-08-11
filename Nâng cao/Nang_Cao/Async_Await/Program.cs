@@ -1,21 +1,25 @@
 ﻿using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Threading.Tasks;
 
 class Program
 {
     static async Task Main()
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8; 
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
 
         Console.WriteLine("=== DỮ LIỆU SINH VIÊN FINT ===");
 
         await KetNoiMayChu();
         var data = await LayDuLieuSinhVien();
+
+        await LuuDuLieuVaoFile(data); 
+
         await XuLyDuLieu(data);
 
-        Console.WriteLine("\n===DONE!===");
+        Console.WriteLine("\n=== DONE! ===");
     }
 
     static async Task KetNoiMayChu()
@@ -55,6 +59,21 @@ class Program
 
         Console.WriteLine("----------- Tải dữ liệu xong! ---------");
         return dsStudent;
+    }
+
+    static async Task LuuDuLieuVaoFile(List<(string MSSV, string HoTen, double DiemTB)> data)
+    {
+        string filePath = @"D:\dataStudent.txt";
+
+        using (StreamWriter writer = new StreamWriter(filePath, false)) 
+        {
+            foreach (var sv in data)
+            {
+                await writer.WriteLineAsync($"{sv.MSSV} | {sv.HoTen} | {sv.DiemTB}");
+            }
+        }
+
+        Console.WriteLine($"----------- Đã lưu dữ liệu vào file {filePath} -----------");
     }
 
     static async Task XuLyDuLieu(List<(string MSSV, string HoTen, double DiemTB)> data)

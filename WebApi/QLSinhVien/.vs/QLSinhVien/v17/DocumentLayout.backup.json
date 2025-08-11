@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FINT\\WebApi\\QLSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|d:\\fint\\webapi\\qlsinhvien\\qlsinhvien\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77336DDF-40C1-4789-ACF8-6F7F0C2C1223}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\DTOs\\Student\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\DTOs\\Student\\StudentUpdateDto.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\DTOs\\Student\\StudentUpdateDto.cs",
+              "RelativeToolTip": "QLSinhVien\\DTOs\\Student\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:07:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\DTOs\\Student\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\DTOs\\Student\\StudentCreateDto.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\DTOs\\Student\\StudentCreateDto.cs",
+              "RelativeToolTip": "QLSinhVien\\DTOs\\Student\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:00:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "QLSinhVien\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:56:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\Models\\Student.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Models\\Student.cs",
+              "RelativeToolTip": "QLSinhVien\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:53:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "QLSinhVien\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:53:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\Program.cs",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\Program.cs",
+              "RelativeToolTip": "QLSinhVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:50:23.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\appsettings.json",
+              "RelativeDocumentMoniker": "QLSinhVien\\appsettings.json",
+              "ToolTip": "D:\\FINT\\WebApi\\QLSinhVien\\QLSinhVien\\appsettings.json",
+              "RelativeToolTip": "QLSinhVien\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T03:49:42.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

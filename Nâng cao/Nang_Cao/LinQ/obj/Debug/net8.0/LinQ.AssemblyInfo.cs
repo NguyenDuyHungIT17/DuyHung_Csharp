@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce88c21a2eb5e31efabd071f487fc1edd466966")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c847db96b296b520a14210e124c0eee958489c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
