@@ -264,7 +264,7 @@
           },
           "ngaySinh": {
             "type": "string",
-            "format": "date",
+            "format": "date-time",
             "nullable": true
           },
           "diemTb": {

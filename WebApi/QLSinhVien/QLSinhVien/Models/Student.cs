@@ -14,7 +14,7 @@ public partial class Student
     [StringLength(100)]
     public string HoTen { get; set; } = null!;
 
-    public DateOnly? NgaySinh { get; set; }
+    public DateTime? NgaySinh { get; set; }
 
     [Column("DiemTB")]
     public double? DiemTb { get; set; }

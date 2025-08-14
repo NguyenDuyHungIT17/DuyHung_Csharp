@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
 using QLSinhVien.DTOs.Student;
 using QLSinhVien.Models;
+using QLSinhVien.Services;
+using QLSinhVien.Filters;
 
 namespace QLSinhVien.Controllers
 {
@@ -14,94 +10,49 @@ namespace QLSinhVien.Controllers
     [ApiController]
     public class StudentsController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly IStudentService _studentService;
 
-        public StudentsController(AppDbContext context)
+        public StudentsController(IStudentService studentService)
         {
-            _context = context;
+            _studentService = studentService;
         }
 
-        // GET: api/Students
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Student>>> GetStudents()
         {
-            return await _context.Students.ToListAsync();
+            var students = await _studentService.GetAllAsync();
+            return Ok(students);
         }
 
-        // GET: api/Students/5
         [HttpGet("{id}")]
+        [ServiceFilter(typeof(ValidateStudentExistsAttribute))]
         public async Task<ActionResult<Student>> GetStudent(int id)
         {
-            var student = await _context.Students.FindAsync(id);
-
-            if (student == null)
-            {
-                return NotFound();
-            }
-
-            return student;
+            var student = await _studentService.GetByIdAsync(id);
+            return Ok(student);
         }
 
-        // PUT: api/Students/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<ActionResult<Student>> PutStudent(int id, StudentUpdateDto dto)
-        {
-            var student = await _context.Students.FindAsync(id);
-            if (student == null)
-            {
-                return NotFound(new { message = "Không tìm thấy sinh viên" });
-            }
-
-            
-            student.HoTen = dto.HoTen;
-            student.NgaySinh = dto.NgaySinh.HasValue ? DateOnly.FromDateTime(dto.NgaySinh.Value) : null;
-            student.DiemTb = dto.DiemTB;
-
-            _context.Entry(student).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
-
-            return student;
-        }
-
-        // POST: api/Students
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Student>> PostStudent(StudentCreateDto dto)
+        public async Task<ActionResult<Student>> CreateStudent(StudentCreateDto dto)
         {
-            var student = new Student
-            {
-                HoTen = dto.HoTen,
-                NgaySinh = dto.NgaySinh.HasValue ? DateOnly.FromDateTime(dto.NgaySinh.Value) : null,
-                DiemTb = dto.DiemTB
-            };
-
-            _context.Students.Add(student);
-            await _context.SaveChangesAsync();
-
-
-            return student;
+            var student = await _studentService.CreateStudentAsync(dto);
+            return CreatedAtAction(nameof(GetStudent), new { id = student.Id }, student);
         }
 
+        [HttpPut("{id}")]
+        [ServiceFilter(typeof(ValidateStudentExistsAttribute))]
+        public async Task<ActionResult<Student>> UpdateStudent(int id, StudentUpdateDto dto)
+        {
+            var updatedStudent = await _studentService.UpdateStudentAsync(id, dto);
+            return Ok(updatedStudent);
+        }
 
-        // DELETE: api/Students/5
         [HttpDelete("{id}")]
+        [ServiceFilter(typeof(ValidateStudentExistsAttribute))]
         public async Task<IActionResult> DeleteStudent(int id)
         {
-            var student = await _context.Students.FindAsync(id);
-            if (student == null)
-            {
-                return NotFound();
-            }
-
-            _context.Students.Remove(student);
-            await _context.SaveChangesAsync();
+            await _studentService.DeleteStudentAsync(id);
             return NoContent();
-        }
-
-        private bool StudentExists(int id)
-        {
-            return _context.Students.Any(e => e.Id == id);
         }
     }
 }

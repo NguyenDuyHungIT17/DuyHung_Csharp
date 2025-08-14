@@ -21,7 +21,7 @@
   },
   {
     "ContainingType": "QLSinhVien.Controllers.StudentsController",
-    "Method": "PostStudent",
+    "Method": "CreateStudent",
     "RelativePath": "api/Students",
     "HttpMethod": "POST",
     "IsController": true,
@@ -73,7 +73,7 @@
   },
   {
     "ContainingType": "QLSinhVien.Controllers.StudentsController",
-    "Method": "PutStudent",
+    "Method": "UpdateStudent",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
