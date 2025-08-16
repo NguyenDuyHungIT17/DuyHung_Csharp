@@ -1,0 +1,15 @@
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\bin\Debug\net8.0\StudentManagement.Data.deps.json
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\bin\Debug\net8.0\StudentManagement.Data.runtimeconfig.json
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\bin\Debug\net8.0\StudentManagement.Data.dll
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\bin\Debug\net8.0\StudentManagement.Data.pdb
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.csproj.AssemblyReference.cache
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.AssemblyInfoInputs.cache
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.AssemblyInfo.cs
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.csproj.CoreCompileInputs.cache
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.sourcelink.json
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.dll
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\refint\StudentManagement.Data.dll
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.pdb
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\StudentManagement.Data.genruntimeconfig.cache
+D:\FINT\MyProject\StudentManagement\StudentManagement.Data\obj\Debug\net8.0\ref\StudentManagement.Data.dll

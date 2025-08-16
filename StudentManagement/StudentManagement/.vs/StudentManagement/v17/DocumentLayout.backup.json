@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FINT\\MyProject\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.data\\context\\smdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|solutionrelative:studentmanagement.data\\context\\smdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.bussiness\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|solutionrelative:studentmanagement.bussiness\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.bussiness\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|solutionrelative:studentmanagement.bussiness\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.shared\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|solutionrelative:studentmanagement.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.shared\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.shared\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\dtos\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.shared\\dtos\\student\\studentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921B4A23-442F-485C-BBE9-95FD9EF87DFB}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\dtos\\student\\studentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.api\\middelware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\middelware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593E758F-4D21-4A68-9D16-55C89D152C8D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.data\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|solutionrelative:studentmanagement.data\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.data\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|solutionrelative:studentmanagement.data\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620B1D-ECD1-42C2-B842-DE5F41B0380D}|StudentManagement.Data\\StudentManagement.Data.csproj|solutionrelative:studentmanagement.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|d:\\fint\\myproject\\studentmanagement\\studentmanagement.bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6307CC-9C1A-4135-9ACD-5F7B52F25708}|StudentManagement.Bussiness\\StudentManagement.Bussiness.csproj|solutionrelative:studentmanagement.bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\DTOs\\Student\\StudentDto.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\DTOs\\Student\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:05:14.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMDbContext.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Context\\SMDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Data\\Context\\SMDbContext.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Context\\SMDbContext.cs",
+              "RelativeToolTip": "StudentManagement.Data\\Context\\SMDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:01:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Bussiness\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement.Bussiness\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:04:57.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:11:08.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Data\\Entities\\Student.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:03:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\DTOs\\Student\\StudentUpdateDto.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentUpdateDto.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\DTOs\\Student\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:04:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\DTOs\\Student\\StudentCreateDto.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentCreateDto.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\DTOs\\Student\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:04:01.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDetailDto.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentDetailDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\DTOs\\Student\\StudentDetailDto.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Shared\\DTOs\\Student\\StudentDetailDto.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\DTOs\\Student\\StudentDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:04:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Middelware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Middelware\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Middelware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "StudentManagement.API\\Middelware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:18:01.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Program.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.API\\Program.cs",
+              "RelativeToolTip": "StudentManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:08:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Data\\Entities\\Enrollment.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "StudentManagement.Data\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:03:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Data\\Entities\\Course.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Entities\\Course.cs",
+              "RelativeToolTip": "StudentManagement.Data\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:03:54.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Data\\Class1.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Data\\Class1.cs",
+              "RelativeToolTip": "StudentManagement.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T07:13:41.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Class1.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Bussiness\\Class1.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Class1.cs",
+              "RelativeToolTip": "StudentManagement.Bussiness\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T07:14:50.76Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Bussiness\\Services\\StudentService.cs",
+              "ToolTip": "D:\\FINT\\MyProject\\StudentManagement\\StudentManagement.Bussiness\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement.Bussiness\\Services\\StudentService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:05:41.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
